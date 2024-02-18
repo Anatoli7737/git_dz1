@@ -1,4 +1,4 @@
-# Anatoli Gytovski
+# Anatoli Gutovski
 # Date: 18/02/2024
 # Description: Homework 2_zadacha4
 # Grodno IT Academy Python 3.11.7
