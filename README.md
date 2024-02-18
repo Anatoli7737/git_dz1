@@ -1,6 +1,6 @@
 ## Это 4 задача ДЗ
 
-Anatoli Gytovski
+Anatoli Gutovski
 Date: 18/02/2024
 
 
